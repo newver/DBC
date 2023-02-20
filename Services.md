@@ -1,8 +1,11 @@
-|  Brickwork <br /> ![picture alt](http://via.placeholder.com/200x150 "Title is optional") | Proin scelerisque augue sed dapibus euismod. Fusce massa neque, consequat in sapien id, posuere ullamcorper nisl. Integer nunc neque, mattis sit amet odio ut, pretium posuere odio. |
-| - | - |
-| a | b |
-| - | - |
-
+  <table>
+    <thead>
+      <tr>
+        <td>Brickwork <br /> ![picture alt](http://via.placeholder.com/200x150 "Title is optional") </td>
+        <td>Brickwork <br /> ![picture alt](http://via.placeholder.com/200x150 "Title is optional") </td>
+      </tr>
+    </thead>
+  </table>
 
 
 
