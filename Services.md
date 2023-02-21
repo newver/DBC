@@ -10,4 +10,4 @@
 | <div className="stext">Phasellus lobortis leo euismod orci lacinia pretium. Curabitur varius eros in consectetur volutpat. Donec facilisis metus ipsum, ac condimentum diam facilisis in. Aliquam erat volutpat.</div>  |  <div className="spic">![picture alt](http://via.placeholder.com/200x150 "Title is optional")</div> |
 |   | <div className="slabel">Carpentry</div> | 
 | <div className="spicr">![picture alt](http://via.placeholder.com/200x150 "Title is optional")</div> | <div className="stext">Phasellus lobortis leo euismod orci lacinia pretium. Curabitur varius eros in consectetur volutpat. Donec facilisis metus ipsum, ac condimentum diam facilisis in. Aliquam erat volutpat.</div>
-
+ 
