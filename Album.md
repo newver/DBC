@@ -1,4 +1,3 @@
-
   <img src="https://lh3.googleusercontent.com/pw/ADCreHdM3ksMFxdXJE5Pc5D0G0bGxNcmTEv_c0HLmHWLtE--_uOWkLGl8f6swtXVHpPIqQnpOHJFF73amjb7G6h7gUpu8YHXRtYlr4_UDR2LxRPtc7e5JPo=w1920-h1080"></img>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHckFKT1bpkbbuQzqwztAKgqYjTJrZ8jVuTmtVT6sdupcuq13wj2SUxFu2o-4Pei80D00ghWie-apbAQI7MZ-py_ANfWZcuC_Vv4R6TXLu7OzicOqsQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHerGqV_-mv8B0-uolPADhA-SkoKOmhapVHrzCT4Hx3etUoR-E34HXkjZiCJm9uMWAo9nos16RZAmHXaifOO1UR3extNkcKtvDiOo1AUuQcb8cUoGVU=w1920-h1080"></object>
@@ -21,4 +20,3 @@
   <object data="https://lh3.googleusercontent.com/pw/ADCreHfiinmwn_AgBhQ4B8B6pmNcrzzF_aVNQIOIUFQ1Qe6and7wINXsoNNguNJTVXzOPWn6rmF2o5EnRwVcWRDTmIfc5hsPvUQuJ5Vu0s0PwTnnJnAdlYQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHeSdLui8TlndTmP9x_tbeLUOVAGJ2x5-Sya21_xo3UAfvIpdqpm0ZBlBGX9OE-kXUoYhAajOefRX8iG1WrjPLd_8DCBSaDlO7q4hcfKbf8J8alzx4U=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/ADCreHewswsv8JPVamJQ3oQbz6c7SC6UAnSQtw87pfjiuixzodqOlnrjDes9LtYlrO96B-o6GjZvhnT--rCtJfQNC4wCe3MwwJeDCayubKOgoIdK9uzDKmE=w1920-h1080"></object>
-</div>
